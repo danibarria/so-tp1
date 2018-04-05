@@ -1,19 +1,10 @@
 #!/bin/bash
 sum=0
 if [ $# -ge 5 ] && [ $# -le 7 ] 
-then
-    #while [ $# -gt 0 ]  
-    #do
-    #    echo $1
-    #    sum=`expr $sum + $1`
-    #    shift 
-    #done
-    
-    for var in $#
+then    
+    for var in $*
     do
-        echo $var
-        echo $1
-
+        sum=`expr $sum + $var`
         shift
     done
     echo $sum
