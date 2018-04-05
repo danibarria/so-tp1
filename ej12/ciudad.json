@@ -3,18 +3,18 @@
       {
          "address_components" : [
             {
-               "long_name" : "Trelew",
-               "short_name" : "Trelew",
+               "long_name" : "Viedma",
+               "short_name" : "Viedma",
                "types" : [ "locality", "political" ]
             },
             {
-               "long_name" : "Rawson Department",
-               "short_name" : "Rawson Department",
+               "long_name" : "Adolfo Alsina",
+               "short_name" : "Adolfo Alsina",
                "types" : [ "administrative_area_level_2", "political" ]
             },
             {
-               "long_name" : "Chubut Province",
-               "short_name" : "Chubut Province",
+               "long_name" : "Río Negro",
+               "short_name" : "Río Negro",
                "types" : [ "administrative_area_level_1", "political" ]
             },
             {
@@ -23,35 +23,35 @@
                "types" : [ "country", "political" ]
             }
          ],
-         "formatted_address" : "Trelew, Chubut Province, Argentina",
+         "formatted_address" : "Viedma, Río Negro, Argentina",
          "geometry" : {
             "bounds" : {
                "northeast" : {
-                  "lat" : -43.2301712,
-                  "lng" : -65.24713149999999
+                  "lat" : -40.79821920000001,
+                  "lng" : -62.96082499999999
                },
                "southwest" : {
-                  "lat" : -43.2964816,
-                  "lng" : -65.37896859999999
+                  "lat" : -40.8518288,
+                  "lng" : -63.03945419999999
                }
             },
             "location" : {
-               "lat" : -43.2493016,
-               "lng" : -65.30763510000001
+               "lat" : -40.8119087,
+               "lng" : -62.9962044
             },
             "location_type" : "APPROXIMATE",
             "viewport" : {
                "northeast" : {
-                  "lat" : -43.2301712,
-                  "lng" : -65.24713149999999
+                  "lat" : -40.79821920000001,
+                  "lng" : -62.96082499999999
                },
                "southwest" : {
-                  "lat" : -43.2964816,
-                  "lng" : -65.37896859999999
+                  "lat" : -40.8518288,
+                  "lng" : -63.03945419999999
                }
             }
          },
-         "place_id" : "ChIJu2lnz7ZEAb4RDS4Tr3ZsvZw",
+         "place_id" : "ChIJxdgBYhKY9pUR6Hp8h0KQQww",
          "types" : [ "locality", "political" ]
       }
    ],
