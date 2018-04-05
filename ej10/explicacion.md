@@ -1,6 +1,5 @@
 si el primer parametro es -
-    para toda la entrada
-        busca en el segundo parametro en $i  la salida la muestra por echo
-
+    para todos los archivos
+    busca el segundo parametro en $i  la salida la muestra $i por echo.
 sino 
-    busca el parametro 1 en $i y si hay salida en /dev/null, mostra $i
+    busca el primer parametro en $i y si puede enviarlo a /dev/null, mostra $i por echo
