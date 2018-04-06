@@ -1,0 +1,27 @@
+a. ¿Cómo invocaría chmod para asignar permisos de lectura, escritura y
+ejecución al propietario, lectura y ejecución para el resto de los
+usuarios del sistema? Suponga que estos permisos deben asignarse a
+todos los archivos contenidos en una carpeta de nombre ​ scripts ​ (sin
+entrar a la carpeta).
+RTA:
+chmod 755 *
+
+b. ¿Cómo invocaría chmod para asignar permisos de lectura y escritura
+(sin ejecución) al propietario y solo lectura para el resto de los usuarios
+del sistema? Suponga que estos permisos deben asignarse a todos los
+archivos con extensión .​ txt ​ en el directorio actual.
+RTA:
+chmod 644 *.txt
+
+
+
+
+
+000
+001
+010
+011
+100
+101
+110
+111

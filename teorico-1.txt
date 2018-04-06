@@ -1,0 +1,41 @@
+ls : listar los archivos en un directorio
+cat:  concatena archivos y muestra por la salida estándar
+more:muestra contenido de un archivo
+less: lo contrario de more
+cp: copiar archivos 
+rm: eliminar archivos
+mkdir: crear una carpeta
+cd: cambiar de directorio
+pwd: decirme en que directorio me encuentro
+file:determina el tipo del archivo
+df: muestra información de los dispositivos montados (uso/capacidad/etc)
+grep: buscar una ocurrencia en un texto/pipe
+
+whatis: muestra el manual en una línea
+apropos:search the manual page names and descriptions
+info: nos da información detallada de un comando
+man: manual de un comando
+
+passwd: cambia la contraseña de usuario
+mount: monta un dispositivo
+time: muestra el tiempo
+date: muestra la fecha / hora
+vi: un editor de texto mínimo
+gcc: compilador de C
+exit: termina un proceso
+reboot: reinicia
+halt: interrumpe la computadora (la apaga sin aviso)
+poweroff: apaga correctamente la computadora
+
+ps: da un vistazo de los procesos que funcionan por la terminal en el momento
+kill: mata un proceso
+top: muestra los procesos funcionando en tiempo real
+
+ifconfig: muestra la info de las interfaces de red
+ping: manda un request a un url
+ip: muestra / manipula ruteo, interfaces
+traceroute:permite ver el trafico de red
+ssh:es un protocolo de administración remota que permite a los usuarios controlar y modificar sus servidores remotos a través de Internet. 
+telnet:un protocolo de red que nos permite acceder a otra máquina para manejarla remotamente
+ftp:permite transferencia de archivos
+

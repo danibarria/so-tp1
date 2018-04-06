@@ -1,0 +1,6 @@
+WINDOWS                 LINUX
+tracert                 traceroute
+arp                     arp
+ping                    ping
+ssh                     ssh
+time                    date
