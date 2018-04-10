@@ -3,18 +3,13 @@
       {
          "address_components" : [
             {
-               "long_name" : "Viedma",
-               "short_name" : "Viedma",
-               "types" : [ "locality", "political" ]
-            },
-            {
-               "long_name" : "Adolfo Alsina",
-               "short_name" : "Adolfo Alsina",
+               "long_name" : "Rawson Department",
+               "short_name" : "Rawson Department",
                "types" : [ "administrative_area_level_2", "political" ]
             },
             {
-               "long_name" : "Río Negro",
-               "short_name" : "Río Negro",
+               "long_name" : "Chubut Province",
+               "short_name" : "Chubut Province",
                "types" : [ "administrative_area_level_1", "political" ]
             },
             {
@@ -23,35 +18,266 @@
                "types" : [ "country", "political" ]
             }
          ],
-         "formatted_address" : "Viedma, Río Negro, Argentina",
+         "formatted_address" : "Rawson Department, Chubut Province, Argentina",
          "geometry" : {
             "bounds" : {
                "northeast" : {
-                  "lat" : -40.79821920000001,
-                  "lng" : -62.96082499999999
+                  "lat" : -42.8322198,
+                  "lng" : -64.3075202
                },
                "southwest" : {
-                  "lat" : -40.8518288,
-                  "lng" : -63.03945419999999
+                  "lat" : -43.7552802,
+                  "lng" : -65.45422740000001
                }
             },
             "location" : {
-               "lat" : -40.8119087,
-               "lng" : -62.9962044
+               "lat" : -43.04272539999999,
+               "lng" : -65.13502950000002
             },
             "location_type" : "APPROXIMATE",
             "viewport" : {
                "northeast" : {
-                  "lat" : -40.79821920000001,
-                  "lng" : -62.96082499999999
+                  "lat" : -42.8322198,
+                  "lng" : -64.3075202
                },
                "southwest" : {
-                  "lat" : -40.8518288,
-                  "lng" : -63.03945419999999
+                  "lat" : -43.7552802,
+                  "lng" : -65.45422740000001
                }
             }
          },
-         "place_id" : "ChIJxdgBYhKY9pUR6Hp8h0KQQww",
+         "place_id" : "ChIJJ36gx1v5A74RvJG-fkXPZTk",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rawson",
+               "short_name" : "Rawson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rawson Department",
+               "short_name" : "Rawson Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chubut Province",
+               "short_name" : "Chubut Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rawson, Chubut Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -43.2822728,
+                  "lng" : -65.05873079999999
+               },
+               "southwest" : {
+                  "lat" : -43.31536149999999,
+                  "lng" : -65.14753759999999
+               }
+            },
+            "location" : {
+               "lat" : -43.2998581,
+               "lng" : -65.09948729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -43.2822728,
+                  "lng" : -65.05873079999999
+               },
+               "southwest" : {
+                  "lat" : -43.31536149999999,
+                  "lng" : -65.14753759999999
+               }
+            }
+         },
+         "place_id" : "ChIJN5Yawx9XAb4RDAWDZCuyxlc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rawson",
+               "short_name" : "Rawson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alex",
+               "short_name" : "Alex",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "McKenzie County",
+               "short_name" : "McKenzie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Dakota",
+               "short_name" : "ND",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "58831",
+               "short_name" : "58831",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rawson, ND 58831, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.8194636,
+               "lng" : -103.5407514
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.82695529999999,
+                  "lng" : -103.524744
+               },
+               "southwest" : {
+                  "lat" : 47.8119708,
+                  "lng" : -103.5567588
+               }
+            }
+         },
+         "place_id" : "ChIJj51OCboCJFMRH4ht52RdrVc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rawson",
+               "short_name" : "Rawson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baw Baw Shire",
+               "short_name" : "Baw Baw",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3825",
+               "short_name" : "3825",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rawson VIC 3825, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.9477347,
+                  "lng" : 146.425963
+               },
+               "southwest" : {
+                  "lat" : -37.97568,
+                  "lng" : 146.386499
+               }
+            },
+            "location" : {
+               "lat" : -37.95,
+               "lng" : 146.4
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.9477347,
+                  "lng" : 146.425963
+               },
+               "southwest" : {
+                  "lat" : -37.97568,
+                  "lng" : 146.386499
+               }
+            }
+         },
+         "place_id" : "ChIJ_yrZ62TjKGsRgGagMKR5BQQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rawson",
+               "short_name" : "Rawson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Union Township",
+               "short_name" : "Union Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hancock County",
+               "short_name" : "Hancock County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "45881",
+               "short_name" : "45881",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rawson, OH 45881, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.963068,
+                  "lng" : -83.7799469
+               },
+               "southwest" : {
+                  "lat" : 40.951332,
+                  "lng" : -83.7899559
+               }
+            },
+            "location" : {
+               "lat" : 40.9589419,
+               "lng" : -83.7841028
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.963068,
+                  "lng" : -83.7799469
+               },
+               "southwest" : {
+                  "lat" : 40.951332,
+                  "lng" : -83.7899559
+               }
+            }
+         },
+         "place_id" : "ChIJq85eyDWlPogRjDGixlU3IRM",
          "types" : [ "locality", "political" ]
       }
    ],
