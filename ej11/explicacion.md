@@ -1,16 +1,12 @@
-si la cantidad de parametros no es 1
-    muestra el uso y sale
+A. si cantidad de parametros no es 1 o
+si el primer parametro es -h muestra el texto explicativo.
 
-si el primer parametro es -h
-    muestra el texto explicativo y sale
-
-toma del primer argumento un patron
-por cada archivo encontrado con extension .h o .c
-    muestra ------
-    muestra lo que hay en $i
-    y busca $patron en $i
+busca el patron que ingresemos en el primer parametro
+en todos los archivos del directorio actual
 
 
+B. si fuera shellscript1 shmget > salida.txt
 
+la salida seria la lista de los archivos del directorio actual
 
-----cualquier archivo de punto h o punto c
+//va a guardar en el txt los modulos que contengan el //patron shmget
