@@ -4,6 +4,7 @@ if [ $# -ge 5 ] && [ $# -le 7 ]
 then    
     for var in $*
     do
+        echo $var
         sum=`expr $sum + $var`
         shift
     done
