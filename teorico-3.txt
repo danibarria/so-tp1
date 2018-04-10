@@ -4,7 +4,7 @@ usuarios del sistema? Suponga que estos permisos deben asignarse a
 todos los archivos contenidos en una carpeta de nombre ​ scripts ​ (sin
 entrar a la carpeta).
 RTA:
-chmod 755 *
+chmod 755 scripts/*
 
 b. ¿Cómo invocaría chmod para asignar permisos de lectura y escritura
 (sin ejecución) al propietario y solo lectura para el resto de los usuarios
