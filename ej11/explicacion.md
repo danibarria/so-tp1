@@ -6,7 +6,4 @@ en todos los archivos del directorio actual
 
 
 B. si fuera shellscript1 shmget > salida.txt
-
-la salida seria la lista de los archivos del directorio actual
-
-//va a guardar en el txt los modulos que contengan el //patron shmget
+va a guardar en el txt los modulos que contengan el patron shmget
